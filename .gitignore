@@ -3,7 +3,7 @@ tmp/
 target/
 !**/src/main/**
 !**/src/test/**
-src/main/resources/application.properties
+src/main/resources/**
 
 ### STS ###
 .apt_generated
